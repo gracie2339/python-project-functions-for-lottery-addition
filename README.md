@@ -1,0 +1,1 @@
+This project is a guided project from [dataquest.io](https://dataquest.io), creating python functions for a fictituous mobile app company wanting to help lottery addiction.
