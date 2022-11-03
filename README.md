@@ -1,3 +1,5 @@
+# A Mobile App for Lottery Addiction
+
 This project is a guided project from [dataquest.io](https://dataquest.io), creating python functions for a fictituous mobile app company wanting to help lottery addiction.
 
 In this project, we will build functions that enable users to answer questions about the [6/49 lottery](https://en.wikipedia.org/wiki/Lotto_6/49) like:
