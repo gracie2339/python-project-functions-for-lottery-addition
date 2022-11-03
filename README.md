@@ -9,3 +9,5 @@ In this project, we will build functions that enable users to answer questions a
 - What is the probability of having at least five (or 4, 3, or 2) winning numbers on a single ticket?
 
 We will also include historical data coming from the [national 6/49 lottery game in Canada from 1982 to 2018](https://www.kaggle.com/datasets/datascienceai/lottery-dataset).
+
+[Link to Jupyter notebook](Basics.ipynb)
